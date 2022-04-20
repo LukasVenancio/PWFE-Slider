@@ -1,0 +1,14 @@
+main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+.slider-container{
+    height: 50vh;
+    width: 50vw;
+    box-shadow: 0 10px 30px blueviolet;
+    border-radius: 10px;
+    
+}
